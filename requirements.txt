@@ -1,0 +1,7 @@
+colorama 
+requests 
+beautifulsoup4 
+python-whois 
+mechanize
+rarfile
+zipfile36
