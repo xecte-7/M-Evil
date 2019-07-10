@@ -1,7 +1,8 @@
-colorama 
-requests 
-beautifulsoup4 
-python-whois 
+requests
+multiprocessing
 mechanize
-rarfile
-zipfile36
+geocoder
+python-whois
+paramiko
+bs4
+colorama
